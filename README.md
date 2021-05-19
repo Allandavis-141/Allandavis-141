@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Allandavis-141
-- 👀 I’m interested in getting diverse coding methologues
+- 👀 I’m interested in getting diverse coding methodologies
 - 🌱 I’m currently learning Software development
 - 💞️ I’m looking to collaborate on python programming and software development
 - 📫 Get me via email: davisallan041@gmail.com
